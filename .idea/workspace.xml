@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f98b4f3-3bcb-4dde-93b5-8b3097edecdf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TCSNCiKwmzGTy7Hebft2s2IFDq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="credentialsType com.jetbrains.python.remote.PyCreateRemoteInterpreterDialog$PyCreateRemoteSdkForm" value="Web Deployment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\PythonProject\drug-interactions-main-VGAE_原始sigvae版本\drug-interactions-main-VGAE_分批次_前面加卷积_中间取均值加入morgan_逐层加噪声\Polypharmacy\Data" />
+      <recent name="G:\PythonProject\drug-interactions-main-VGAE_原始sigvae版本\drug-interactions-main-VGAE\Polypharmacy\Data" />
+      <recent name="G:\PythonProject\drug-interactions-main-VGAE\Polypharmacy\Data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\PythonProject\drug-interactions-main-VGAE_原始sigvae版本\SIPSE_main" />
+      <recent name="G:\PythonProject\drug-interactions-main-VGAE\Polypharmacy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train_model">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="SIPSE_main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_t_sne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SIPSE_main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Polypharmacy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Polypharmacy/get_t_sne.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SIPSE_main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Polypharmacy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Polypharmacy/test4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_drug_relation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SIPSE_main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Polypharmacy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Polypharmacy/test_drug_relation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_t_SNE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SIPSE_main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Polypharmacy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Polypharmacy/test_t_SNE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SIPSE_main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Polypharmacy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\PythonProject\drug-interactions-main-VGAE_原始sigvae版本\SIPSE_main\train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_model" />
+        <item itemvalue="Python.test_drug_relation" />
+        <item itemvalue="Python.get_t_sne" />
+        <item itemvalue="Python.test_t_SNE" />
+        <item itemvalue="Python.test4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f98b4f3-3bcb-4dde-93b5-8b3097edecdf" name="Changes" comment="" />
+      <created>1690545527332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690545527332</updated>
+      <workItem from="1690545528514" duration="599000" />
+      <workItem from="1690551638012" duration="4127000" />
+      <workItem from="1690611480396" duration="1328000" />
+      <workItem from="1692854035844" duration="68000" />
+      <workItem from="1693033059347" duration="657000" />
+      <workItem from="1693637787836" duration="1410000" />
+      <workItem from="1693744945579" duration="3625000" />
+      <workItem from="1693790634908" duration="5935000" />
+      <workItem from="1693801271067" duration="1221000" />
+      <workItem from="1693814319847" duration="12233000" />
+      <workItem from="1693877556506" duration="23381000" />
+      <workItem from="1694247978527" duration="14262000" />
+      <workItem from="1694268439308" duration="20000" />
+      <workItem from="1694311054672" duration="18263000" />
+      <workItem from="1694393307978" duration="14539000" />
+      <workItem from="1694421960355" duration="3791000" />
+      <workItem from="1694482478269" duration="9793000" />
+      <workItem from="1694568715932" duration="4854000" />
+      <workItem from="1694592895197" duration="4129000" />
+      <workItem from="1694654380360" duration="2407000" />
+      <workItem from="1694664953919" duration="974000" />
+      <workItem from="1694665948104" duration="504000" />
+      <workItem from="1696476655498" duration="15575000" />
+      <workItem from="1696561864956" duration="2199000" />
+      <workItem from="1696647015436" duration="13091000" />
+      <workItem from="1696740102686" duration="7420000" />
+      <workItem from="1697018871603" duration="3613000" />
+      <workItem from="1697023355822" duration="62000" />
+      <workItem from="1697097433855" duration="7606000" />
+      <workItem from="1697167833004" duration="18172000" />
+      <workItem from="1697370230888" duration="7175000" />
+      <workItem from="1697470373241" duration="2135000" />
+      <workItem from="1697508845585" duration="4695000" />
+      <workItem from="1697548774994" duration="9535000" />
+      <workItem from="1697640354125" duration="2647000" />
+      <workItem from="1697678269653" duration="29014000" />
+      <workItem from="1697770042702" duration="18228000" />
+      <workItem from="1697852759331" duration="7219000" />
+      <workItem from="1698055776616" duration="2482000" />
+      <workItem from="1698075070315" duration="3531000" />
+      <workItem from="1698107232085" duration="9425000" />
+      <workItem from="1698151390248" duration="7899000" />
+      <workItem from="1698162724967" duration="39000" />
+      <workItem from="1698248936621" duration="1158000" />
+      <workItem from="1698286400661" duration="14501000" />
+      <workItem from="1698461401195" duration="208000" />
+      <workItem from="1698631021600" duration="24437000" />
+      <workItem from="1698721515375" duration="2254000" />
+      <workItem from="1698765608397" duration="1767000" />
+      <workItem from="1698886357865" duration="25178000" />
+      <workItem from="1698975560756" duration="15315000" />
+      <workItem from="1699003074158" duration="2875000" />
+      <workItem from="1699020817542" duration="9086000" />
+      <workItem from="1699171453403" duration="318000" />
+      <workItem from="1699171808412" duration="480000" />
+      <workItem from="1699172397412" duration="15116000" />
+      <workItem from="1699255456693" duration="5758000" />
+      <workItem from="1699284869901" duration="610000" />
+      <workItem from="1699366368317" duration="5201000" />
+      <workItem from="1699495929786" duration="1155000" />
+      <workItem from="1699800694603" duration="6210000" />
+      <workItem from="1699863151930" duration="1776000" />
+      <workItem from="1699866919092" duration="6643000" />
+      <workItem from="1699874320017" duration="3826000" />
+      <workItem from="1699880589258" duration="1277000" />
+      <workItem from="1699881884739" duration="4762000" />
+      <workItem from="1700060920164" duration="1724000" />
+      <workItem from="1700099921689" duration="20656000" />
+      <workItem from="1700184492803" duration="1743000" />
+      <workItem from="1700235037428" duration="2295000" />
+      <workItem from="1700458837411" duration="3927000" />
+      <workItem from="1700464098386" duration="6566000" />
+      <workItem from="1700643965355" duration="2499000" />
+      <workItem from="1700665122549" duration="25000" />
+      <workItem from="1700793320300" duration="13250000" />
+      <workItem from="1700812275375" duration="3951000" />
+      <workItem from="1700880406329" duration="724000" />
+      <workItem from="1700984570806" duration="11011000" />
+      <workItem from="1701003942076" duration="9738000" />
+      <workItem from="1701048035637" duration="16001000" />
+      <workItem from="1701066879138" duration="4754000" />
+      <workItem from="1701075515365" duration="1209000" />
+      <workItem from="1701076814076" duration="10000" />
+      <workItem from="1701076825041" duration="19776000" />
+      <workItem from="1701271278068" duration="2735000" />
+      <workItem from="1701330552420" duration="10690000" />
+      <workItem from="1701358403044" duration="1856000" />
+      <workItem from="1701395319392" duration="15435000" />
+      <workItem from="1701415615952" duration="1238000" />
+      <workItem from="1701416884066" duration="5000" />
+      <workItem from="1701416890549" duration="6038000" />
+      <workItem from="1701425134777" duration="18905000" />
+      <workItem from="1701480696203" duration="32549000" />
+      <workItem from="1701605295438" duration="34464000" />
+      <workItem from="1701786689741" duration="3876000" />
+      <workItem from="1701861065002" duration="907000" />
+      <workItem from="1701964769849" duration="1639000" />
+      <workItem from="1702003591481" duration="7205000" />
+      <workItem from="1702025010022" duration="1834000" />
+      <workItem from="1702028994256" duration="8992000" />
+      <workItem from="1702051384411" duration="599000" />
+      <workItem from="1702055693221" duration="49000" />
+      <workItem from="1702055878369" duration="6000" />
+      <workItem from="1702089876524" duration="21376000" />
+      <workItem from="1702173958666" duration="8176000" />
+      <workItem from="1702271294760" duration="9833000" />
+      <workItem from="1702346834898" duration="16049000" />
+      <workItem from="1702421649285" duration="11463000" />
+      <workItem from="1702516155782" duration="11054000" />
+      <workItem from="1702624552628" duration="55113000" />
+      <workItem from="1702885513369" duration="222000" />
+      <workItem from="1702912522854" duration="333000" />
+      <workItem from="1702921971988" duration="16739000" />
+      <workItem from="1702992643866" duration="2754000" />
+      <workItem from="1702995642412" duration="772000" />
+      <workItem from="1703004294992" duration="1646000" />
+      <workItem from="1703123875408" duration="5653000" />
+      <workItem from="1703303748097" duration="5052000" />
+      <workItem from="1703312804278" duration="20447000" />
+      <workItem from="1703493839388" duration="10735000" />
+      <workItem from="1703565504176" duration="946000" />
+      <workItem from="1703595289287" duration="14495000" />
+      <workItem from="1703730827541" duration="17266000" />
+      <workItem from="1703777950773" duration="1389000" />
+      <workItem from="1703832358258" duration="6238000" />
+      <workItem from="1704115056329" duration="11376000" />
+      <workItem from="1704467944670" duration="26000" />
+      <workItem from="1704631750705" duration="1378000" />
+      <workItem from="1706332593207" duration="4379000" />
+      <workItem from="1706708386571" duration="877000" />
+      <workItem from="1706763202444" duration="3840000" />
+      <workItem from="1706870744890" duration="5057000" />
+      <workItem from="1707278883849" duration="4602000" />
+      <workItem from="1708153133001" duration="1963000" />
+      <workItem from="1708959890845" duration="1683000" />
+      <workItem from="1709173705540" duration="4000" />
+      <workItem from="1709432126548" duration="1890000" />
+      <workItem from="1709435023895" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCode/test_NNPS_drug_feature.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCode/test1.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="key" />
+        <watch expression="output" />
+        <watch expression="output" language="Python" />
+        <watch expression="drug_drug_edge_index" />
+        <watch expression="net.GraphConvolution.interact" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$train_hetero_vgae.coverage" NAME="train_hetero_vgae Coverage Results" MODIFIED="1707280086177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polypharmacy" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_VGAE$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1693819291958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_VGAE$test_pca.coverage" NAME="test_pca Coverage Results" MODIFIED="1698641319835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1703749688348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polypharmacy" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$get_t_sne.coverage" NAME="get_t_sne Coverage Results" MODIFIED="1704120266013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polypharmacy" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1702699209867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$test_drug_relation.coverage" NAME="test_drug_relation Coverage Results" MODIFIED="1706871563835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polypharmacy" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$hetero_vgae.coverage" NAME="hetero_vgae Coverage Results" MODIFIED="1701436321726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polypharmacy/models" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_VGAE$hetero_vgae.coverage" NAME="hetero_vgae Coverage Results" MODIFIED="1698901414909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polypharmacy/models" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$testGCNConv.coverage" NAME="testGCNConv Coverage Results" MODIFIED="1701058628293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$test_NNPS_drug_feature.coverage" NAME="test_NNPS_drug_feature Coverage Results" MODIFIED="1702122976289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_VGAE$train_hetero_vgae.coverage" NAME="train_hetero_vgae Coverage Results" MODIFIED="1699001110669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polypharmacy" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$test_t_SNE.coverage" NAME="test_t_SNE Coverage Results" MODIFIED="1704117745797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polypharmacy" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_VGAE$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1698644154726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/drug_interactions_main_SIVGAE$utils.coverage" NAME="utils Coverage Results" MODIFIED="1701059770034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polypharmacy" />
+  </component>
+</project>

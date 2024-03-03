@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@172.29.32.81:30828">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.29.32.81:30828 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.29.32.81:30966">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/13954/yz/SIGVAE/drug-interactions-main-VGAE_#U5206#U6279#U6b21_#U524d#U9762#U52a0#U5377#U79ef_#U4e2d#U95f4#U53d6#U5747#U503c#U52a0#U5165morgan_#U9010#U5c42#U52a0#U566a#U58f0" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.29.32.81:30966 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/13954/yz/SIGVAE/drug-interactions-main-VGAE_#U5206#U6279#U6b21_#U524d#U9762#U52a0#U5377#U79ef_#U4e2d#U95f4#U53d6#U5747#U503c#U52a0#U5165morgan_#U9010#U5c42#U52a0#U566a#U58f0" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.29.32.81:30966 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/13954/yz/SIGVAE/drug-interactions-main-VGAE_#U5206#U6279#U6b21_#U524d#U9762#U52a0#U5377#U79ef_#U4e2d#U95f4#U53d6#U5747#U503c#U52a0#U5165morgan_#U9010#U5c42#U52a0#U566a#U58f0" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.29.32.81:30968">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:10030">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:10030 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:10030 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:12448">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SGPS" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:18280">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:29729">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:32886">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:37151">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:51778">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/NNPS" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.southb.gpuhub.com:51778 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:45403">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:45403 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:45403 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:48738">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:14726">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:14726 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:18465">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/drug-interactions-main-VGAE_不分批次_前面加卷积_中间取均值加入morgan_逐层加噪声" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:29268">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:29268 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:31484">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/drug-interactions-main-VGAE_分批次_前面加卷积_中间取均值加入morgan_逐层加噪声" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:31484 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:31484 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-45.autodl.pro:34557">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-45.autodl.pro:34557 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/drug-interactions-main-VGAE_分批次_前面加卷积_中间取均值加入morgan_逐层加噪声" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-45.autodl.pro:34557 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-45.autodl.pro:41528">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-45.autodl.pro:41528 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-45.autodl.pro:41528 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-45.autodl.pro:44723">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-46.seetacloud.com:12515">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/SIVAGE" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-46.seetacloud.com:12515 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-8.autodl.pro:47298">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
