@@ -1,5 +1,5 @@
 requirements:
-  torch==1.13.1
+	torch==1.13.1
   torch_geometric==2.3.1
   scipy==1.6.2
   scikit-learn==1.0.2
