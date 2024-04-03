@@ -8,7 +8,7 @@ import torch_geometric.transforms as pyg_T
 import torch_geometric.utils as pyg_utils
 
 from data import load_data
-from models.hetero_vgae import SIPSEModel
+from models.model import SIPSEModel
 from metrics import *
 
 import warnings
